@@ -20,6 +20,8 @@ namespace DynatronChallenge.DAC
 
             int maxId = CustomerCollection.Max(t => t.id);
             Customer.id = maxId + 1;
+            Customer.created = DateOnly.FromDateTime(DateTime.Now).ToString("yyyy-MM-dd");
+            Customer.last_updated = DateOnly.FromDateTime(DateTime.Now).ToString("yyyy-MM-dd");
 
             CustomerCollection.Add(Customer);
 

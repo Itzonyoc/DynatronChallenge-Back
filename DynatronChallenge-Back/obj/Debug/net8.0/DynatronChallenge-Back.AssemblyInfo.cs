@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynatronChallenge-Back")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d70b77bb4fe1e740adc911e3ff22d1056bd3762c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7c0c992cac0cf614b7a44465f20170df4abcbac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynatronChallenge-Back")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynatronChallenge-Back")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

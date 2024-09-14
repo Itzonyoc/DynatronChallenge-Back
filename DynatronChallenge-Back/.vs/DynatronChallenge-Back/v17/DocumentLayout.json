@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Angular\\DynatronChallenge-Back\\DynatronChallenge-Back\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD985803-2601-4533-8828-986A8D9AC2E0}|DynatronChallenge-Back.csproj|d:\\angular\\dynatronchallenge-back\\dynatronchallenge-back\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD985803-2601-4533-8828-986A8D9AC2E0}|DynatronChallenge-Back.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD985803-2601-4533-8828-986A8D9AC2E0}|DynatronChallenge-Back.csproj|d:\\angular\\dynatronchallenge-back\\dynatronchallenge-back\\customers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD985803-2601-4533-8828-986A8D9AC2E0}|DynatronChallenge-Back.csproj|solutionrelative:customers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Angular\\DynatronChallenge-Back\\DynatronChallenge-Back\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Angular\\DynatronChallenge-Back\\DynatronChallenge-Back\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:52:40.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customers.json",
+              "DocumentMoniker": "D:\\Angular\\DynatronChallenge-Back\\DynatronChallenge-Back\\Customers.json",
+              "RelativeDocumentMoniker": "Customers.json",
+              "ToolTip": "D:\\Angular\\DynatronChallenge-Back\\DynatronChallenge-Back\\Customers.json",
+              "RelativeToolTip": "Customers.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T04:52:34.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
