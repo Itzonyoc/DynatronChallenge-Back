@@ -1,0 +1,15 @@
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\bin\Debug\net8.0\DynatronChallenge.DAC.deps.json
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\bin\Debug\net8.0\DynatronChallenge.DAC.dll
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\bin\Debug\net8.0\DynatronChallenge.DAC.pdb
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\bin\Debug\net8.0\DynatronChallenge.Model.dll
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\bin\Debug\net8.0\DynatronChallenge.Model.pdb
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\DynatronChallenge.DAC.csproj.AssemblyReference.cache
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\DynatronChallenge.DAC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\DynatronChallenge.DAC.AssemblyInfoInputs.cache
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\DynatronChallenge.DAC.AssemblyInfo.cs
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\DynatronChallenge.DAC.csproj.CoreCompileInputs.cache
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\Dynatron.6E2F3479.Up2Date
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\DynatronChallenge.DAC.dll
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\refint\DynatronChallenge.DAC.dll
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\DynatronChallenge.DAC.pdb
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.DAC\obj\Debug\net8.0\ref\DynatronChallenge.DAC.dll

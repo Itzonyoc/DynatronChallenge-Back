@@ -1,0 +1,11 @@
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\bin\Debug\net8.0\DynatronChallenge.Model.deps.json
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\bin\Debug\net8.0\DynatronChallenge.Model.dll
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\bin\Debug\net8.0\DynatronChallenge.Model.pdb
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\obj\Debug\net8.0\DynatronChallenge.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\obj\Debug\net8.0\DynatronChallenge.Model.AssemblyInfoInputs.cache
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\obj\Debug\net8.0\DynatronChallenge.Model.AssemblyInfo.cs
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\obj\Debug\net8.0\DynatronChallenge.Model.csproj.CoreCompileInputs.cache
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\obj\Debug\net8.0\DynatronChallenge.Model.dll
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\obj\Debug\net8.0\refint\DynatronChallenge.Model.dll
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\obj\Debug\net8.0\DynatronChallenge.Model.pdb
+D:\Angular\DynatronChallenge-Back\DynatronChallenge.Model\obj\Debug\net8.0\ref\DynatronChallenge.Model.dll

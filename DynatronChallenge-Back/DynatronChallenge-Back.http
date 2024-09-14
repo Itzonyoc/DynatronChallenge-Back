@@ -1,0 +1,6 @@
+@DynatronChallenge_Back_HostAddress = http://localhost:5003
+
+GET {{DynatronChallenge_Back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
